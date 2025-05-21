@@ -1,4 +1,4 @@
-# Healthy Lifestyle  (DASC 400)
+# H (DASC 400)
 
 This project explored how everyday lifestyle habits relate to BMI and overall health outcomes. Using a dataset from Kaggle, I applied decision trees and k-means clustering to uncover patterns in variables like sleep, exercise, diet, and alcohol consumption. The goal was to identify combinations of behaviors that predict higher or lower health risks.
 
