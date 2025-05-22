@@ -14,5 +14,5 @@ This project explored how everyday lifestyle habits relate to BMI and overall he
 - Clustering revealed 3 distinct lifestyle profiles
 
 ### Reflection:
-This project helped me connect statistical techniques with real-world health challenges. It made me think critically about how data can be used to support public wellness and preventative health strategies — especially for students.
+This project helped me connect statistical techniques with real-world health challenges. It made me think critically about how data can be used to support public wellness and preventative health strategies especially for students.
 
